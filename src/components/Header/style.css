@@ -1,0 +1,17 @@
+.header {
+  background-color: rgb(13, 97, 34);
+  background-image: url("/assets/trees.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  color: rgb(146, 148, 35);
+  min-height: 150px;
+  padding: 180px 20px;
+  padding-bottom: 140px;
+  text-align: center;
+}
+
+.header h1 {
+  margin: 0;
+  margin-bottom: 30px;
+  font-size: 4rem;
+}

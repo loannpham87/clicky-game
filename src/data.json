@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/berries.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/berry.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/dana-villas.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/dirty-martini.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/egg-drop-soup.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/ramen.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/rattlesnake.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/snoqualmie-falls.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/snoqualmie.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/sunflowers.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/sushi.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/trailshot.jpg",
+    "clicked": false
+  }
+]
